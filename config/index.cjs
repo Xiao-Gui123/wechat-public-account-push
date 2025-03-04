@@ -6,12 +6,14 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
+  // 请将以下代码按照图示粘贴到对应位置
+  USE_PASSAGE: 'push-plus',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxaf2e875494df00b8',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '788a24f9e0db0822e8d3871dc73aa0e3',
+  APP_SECRET: '',
 
   PROVINCE: '山东',
   CITY: '青岛',
